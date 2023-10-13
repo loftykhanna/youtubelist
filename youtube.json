@@ -1,0 +1,1302 @@
+[
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0151,
+    "Negative": 0.0004,
+    "Neutral": 0.9846,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Happy INDEPENDENCE Day 🇮🇳 | #SapneDekhneKiAzaadi | Biggest Offers on All PW Batches.",
+    "decription": "Aapka padhne ka harr sapna hoga poora kyunki PW de raha hai aapko #SapneDekhneKiAzaadi Offers Valid Till: 20th August ...",
+    "videoId": "-PVLHNUu0vg"
+    },
+    "_id": "652917fb82d3b1c62ada9fc9",
+    "createdAt": "2023-10-13T10:12:11.198Z",
+    "updatedAt": "2023-10-13T10:12:11.198Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0008,
+    "Negative": 0.0003,
+    "Neutral": 0.9989,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "JEE Advanced 2023 RESULT CELEBRATION 🔥 3500+ IITians from Physics Wallah !!",
+    "decription": "Let's Celebrate JEE Advanced Result   https://bit.ly/PWJEE_Advance Arjuna JEE 2.0 (Class 11th + JEE) ...",
+    "videoId": "65jjQJRPe80"
+    },
+    "_id": "652917fb82d3b1c62ada9fdb",
+    "createdAt": "2023-10-13T10:12:11.210Z",
+    "updatedAt": "2023-10-13T10:12:11.210Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0661,
+    "Negative": 0.0003,
+    "Neutral": 0.9335,
+    "Mixed": 0.0001
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "FATHER&#39;S DAY Special: पापा ने Newspaper बेचकर अपनी बेटी को पढ़ाया !! 🥺 NEET 2023 Success Story.",
+    "decription": "Celebrate your NEET results with Alakh Sir : https://bit.ly/neet_YT ✨ Arjuna NEET 2024 2.0 ...",
+    "videoId": "dKuAt-w2QU0"
+    },
+    "_id": "652917fb82d3b1c62ada9feb",
+    "createdAt": "2023-10-13T10:12:11.218Z",
+    "updatedAt": "2023-10-13T10:12:11.218Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.009,
+    "Negative": 0.0004,
+    "Neutral": 0.9905,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "JEE Advanced 2023 🔥 Results Celebrations Tomorrow !!",
+    "decription": "",
+    "videoId": "IAcku1OOKtI"
+    },
+    "_id": "652917fb82d3b1c62ada9fc5",
+    "createdAt": "2023-10-13T10:12:11.192Z",
+    "updatedAt": "2023-10-13T10:12:11.192Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0661,
+    "Negative": 0.0003,
+    "Neutral": 0.9335,
+    "Mixed": 0.0001
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "HE SLEEP ONLY 3 HOURS from Last 12 Years 🙏 दिनभर मज़दूरी और रात मे पढ़ाई | NEET KASHMIR Story",
+    "decription": "Celebrate your NEET results with Alakh Sir : https://bit.ly/neet_YT ✨ Arjuna NEET 2024 2.0 ...",
+    "videoId": "a0B1IPaBNHE"
+    },
+    "_id": "652917fa82d3b1c62ada9fbf",
+    "createdAt": "2023-10-13T10:12:10.984Z",
+    "updatedAt": "2023-10-13T10:12:10.984Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.1317,
+    "Negative": 0.0048,
+    "Neutral": 0.8621,
+    "Mixed": 0.0014
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "The PWians 🥺",
+    "decription": "",
+    "videoId": "p4UTDWkx95A"
+    },
+    "_id": "652917fb82d3b1c62ada9fd7",
+    "createdAt": "2023-10-13T10:12:11.209Z",
+    "updatedAt": "2023-10-13T10:12:11.209Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0661,
+    "Negative": 0.0003,
+    "Neutral": 0.9335,
+    "Mixed": 0.0001
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "गांव के ANOKHE Topper की ANOKHI कहानी 🥺 | AIR 134 NEET 2023 🔥#neet2023results",
+    "decription": "Celebrate your NEET results with Alakh Sir : https://bit.ly/neet_YT ✨ Arjuna NEET 2024 2.0 ...",
+    "videoId": "tA16tNlFWCw"
+    },
+    "_id": "652917fa82d3b1c62ada9fc1",
+    "createdAt": "2023-10-13T10:12:10.991Z",
+    "updatedAt": "2023-10-13T10:12:10.991Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.1737,
+    "Negative": 0.0299,
+    "Neutral": 0.7962,
+    "Mixed": 0.0001
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Thank you KOTA ♥️",
+    "decription": "Celebrate your NEET results with Alakh Sir : https://bit.ly/neet_YT ✨ Arjuna NEET 2024 2.0 ...",
+    "videoId": "cueIWWDWj_c"
+    },
+    "_id": "652917fb82d3b1c62ada9fc7",
+    "createdAt": "2023-10-13T10:12:11.195Z",
+    "updatedAt": "2023-10-13T10:12:11.195Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0661,
+    "Negative": 0.0003,
+    "Neutral": 0.9335,
+    "Mixed": 0.0001
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "NEET 2023 Results Celebrations 🎉 || 20,000+ Doctors from Physics Wallah !!",
+    "decription": "Celebrate your NEET results with Alakh Sir : https://bit.ly/neet_YT ✨ Arjuna NEET 2024 2.0 ...",
+    "videoId": "rmlB3mpe46Q"
+    },
+    "_id": "652917fa82d3b1c62ada9fbb",
+    "createdAt": "2023-10-13T10:12:10.982Z",
+    "updatedAt": "2023-10-13T10:12:10.982Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0852,
+    "Negative": 0.0007,
+    "Neutral": 0.914,
+    "Mixed": 0.0001
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "AIR 24 - NEET 2023 Results || Selections from &quot;PW PURE ONLINE BATCHES&quot; 🙏",
+    "decription": "Celebrate your NEET results with Alakh Sir : https://bit.ly/neet_YT ✨ Arjuna NEET 2024 2.0 ...",
+    "videoId": "tvfxAJ6di8Y"
+    },
+    "_id": "652917fb82d3b1c62adaa003",
+    "createdAt": "2023-10-13T10:12:11.267Z",
+    "updatedAt": "2023-10-13T10:12:11.267Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0852,
+    "Negative": 0.0007,
+    "Neutral": 0.914,
+    "Mixed": 0.0001
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "NEET 2023 Results 🚀 || 7 Students SCORED 700+ Marks !! 🔥 Physics Wallah",
+    "decription": "Celebrate your NEET results with Alakh Sir : https://bit.ly/neet_YT ✨ Arjuna NEET 2024 2.0 ...",
+    "videoId": "yKre-x6CQK0"
+    },
+    "_id": "652917fb82d3b1c62ada9fd9",
+    "createdAt": "2023-10-13T10:12:11.209Z",
+    "updatedAt": "2023-10-13T10:12:11.209Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0852,
+    "Negative": 0.0007,
+    "Neutral": 0.914,
+    "Mixed": 0.0001
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "NEET 2023 Results 🚀 || 7 Students SCORED 700+ 🔥",
+    "decription": "Celebrate your NEET results with Alakh Sir : https://bit.ly/neet_YT ✨ Arjuna NEET 2024 2.0 ...",
+    "videoId": "CI7v8xBGGI0"
+    },
+    "_id": "652917fb82d3b1c62ada9fd5",
+    "createdAt": "2023-10-13T10:12:11.208Z",
+    "updatedAt": "2023-10-13T10:12:11.208Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0852,
+    "Negative": 0.0007,
+    "Neutral": 0.914,
+    "Mixed": 0.0001
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Class 11th Barbaad !! Fir Bhi Bana NEET 2023 TOPPER 🫡  AIR 59 - Vaibhav || Scored 710 Marks ⚡",
+    "decription": "Celebrate your NEET results with Alakh Sir : https://bit.ly/neet_YT ✨ Arjuna NEET 2024 2.0 ...",
+    "videoId": "RfQJ5yNeFY0"
+    },
+    "_id": "652917fb82d3b1c62ada9fcb",
+    "createdAt": "2023-10-13T10:12:11.199Z",
+    "updatedAt": "2023-10-13T10:12:11.199Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0317,
+    "Negative": 0.0012,
+    "Neutral": 0.9671,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Bachhon Ke Liye KYA HAI?? Biggest OFFERS on All PW Batches &amp; on Everything 🙏",
+    "decription": "Hello Baccho! Aapke PW ko ho gaye hai #3SaalLajawaab, Alakh sir apne baccho ke liye lekr aaye hai bohot saree exciting offers- ...",
+    "videoId": "LVdSosKFbJk"
+    },
+    "_id": "652917fa82d3b1c62ada9fbd",
+    "createdAt": "2023-10-13T10:12:10.984Z",
+    "updatedAt": "2023-10-13T10:12:10.984Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0011,
+    "Negative": 0.0003,
+    "Neutral": 0.9985,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "GOOSEBUMPS: Legendary Trio of Chemistry !! 😱 JEE 2024 Dropper | Prayas 2.O | Check Description",
+    "decription": "Prayas 2.O Launch: https://www.youtube.com/live/RNk-S2gF7pg?feature=share.",
+    "videoId": "Uo1dsKkR-xU"
+    },
+    "_id": "652917fb82d3b1c62adaa00d",
+    "createdAt": "2023-10-13T10:12:11.274Z",
+    "updatedAt": "2023-10-13T10:12:11.274Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0019,
+    "Negative": 0.0003,
+    "Neutral": 0.9978,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "BOSS of MATHEMATICS Revealed 🔥 Check Description | JEE 2024 Dropper | PRAYAS 2.O",
+    "decription": "Prayas Batch YouTube Channel: https://youtube.com/@PW-PrayasBatch.",
+    "videoId": "DZ6AmM8Zh1Y"
+    },
+    "_id": "652917fb82d3b1c62ada9fc3",
+    "createdAt": "2023-10-13T10:12:11.190Z",
+    "updatedAt": "2023-10-13T10:12:11.190Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0019,
+    "Negative": 0.0003,
+    "Neutral": 0.9978,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Dream PHYSICS Faculty 😱 | JEE Dropper 2024 | Prayas 2.O | Physics Wallah",
+    "decription": "Prayas 2.O JEE 2024 Dropper Batch: https://links.physicswallah.live/AqiDmVgiAHUAHFvG6.",
+    "videoId": "4p9jq8mMRZ8"
+    },
+    "_id": "652917fb82d3b1c62ada9fdd",
+    "createdAt": "2023-10-13T10:12:11.211Z",
+    "updatedAt": "2023-10-13T10:12:11.211Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.01,
+    "Negative": 0.0001,
+    "Neutral": 0.9898,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "YAKEEN 2.O Chemistry - 1st Class FREE 🔥 || MOLE CONCEPT 01 || NEET 2024 Dropper",
+    "decription": "Yakeen 2.0 NEET Dropper Batch https://physicswallah.onelink.me/ZAZB/xlh43z92 New Features     Two Sets of Faculties ...",
+    "videoId": "U8Pa6mSsSDM"
+    },
+    "_id": "652917fb82d3b1c62ada9fe1",
+    "createdAt": "2023-10-13T10:12:11.213Z",
+    "updatedAt": "2023-10-13T10:12:11.213Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0147,
+    "Negative": 0.0002,
+    "Neutral": 0.9851,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "YAKEEN 2.O Physics - 1st Class FREE 🔥 || BASIC MATHEMATICS 01 || NEET 2024 Dropper",
+    "decription": "Yakeen 2.0 NEET Dropper Batch https://physicswallah.onelink.me/ZAZB/xlh43z92 New Features     Two Sets of Faculties ...",
+    "videoId": "eLRC8Gvs1N8"
+    },
+    "_id": "652917fb82d3b1c62ada9fdf",
+    "createdAt": "2023-10-13T10:12:11.212Z",
+    "updatedAt": "2023-10-13T10:12:11.212Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0147,
+    "Negative": 0.0002,
+    "Neutral": 0.9851,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "YAKEEN 2.O Zoology - 1st Class FREE 🔥 || Structural Organisation in Animals 01 || NEET 2024 Dropper",
+    "decription": "Yakeen 2.0 NEET Dropper Batch https://physicswallah.onelink.me/ZAZB/xlh43z92 New Features     Two Sets of Faculties ...",
+    "videoId": "PHDuEV4yq5c"
+    },
+    "_id": "652917fb82d3b1c62adaa01d",
+    "createdAt": "2023-10-13T10:12:11.356Z",
+    "updatedAt": "2023-10-13T10:12:11.356Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0044,
+    "Negative": 0.0001,
+    "Neutral": 0.9955,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "YAKEEN 2.O - Biggest Announcement by Alakh Sir || First Class FREE on YouTube 🔥",
+    "decription": "Yakeen 2.0 - https://physicswallah.onelink.me/ZAZB/ae9hu3io NEET Application: https://bit.ly/neet_YT Yakeen 2.0 NEET Dropper ...",
+    "videoId": "rheB713X43U"
+    },
+    "_id": "652917fb82d3b1c62ada9fd3",
+    "createdAt": "2023-10-13T10:12:11.206Z",
+    "updatedAt": "2023-10-13T10:12:11.206Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0007,
+    "Negative": 0.0003,
+    "Neutral": 0.999,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Khud Pe YAKEEN - Official Song | NEET 2024 Dropper | Physics Wallah | Alakh Sir | Prateek Sahaii",
+    "decription": "Yakeen 2.0 : https://physicswallah.onelink.me/ZAZB/xlh43z92 Yakeen NEET 2.0 Batch Details : - Complete NEET Syllabus will be ...",
+    "videoId": "oZm1SUkiD34"
+    },
+    "_id": "652917fb82d3b1c62ada9fcf",
+    "createdAt": "2023-10-13T10:12:11.203Z",
+    "updatedAt": "2023-10-13T10:12:11.203Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0013,
+    "Negative": 0.0002,
+    "Neutral": 0.9984,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "The Most Powerful &amp; HISTORICAL Batch for NEET 2024 Dropper !!🩺 YAKEEN 2.O Mega LAUNCH 🔥 @Rs 4400/-",
+    "decription": "Yakeen 2.0 : https://physicswallah.onelink.me/ZAZB/xlh43z92 Yakeen NEET 2.0 Batch Details : - Complete NEET Syllabus will be ...",
+    "videoId": "QRGGpWwCQzk"
+    },
+    "_id": "652917fb82d3b1c62ada9ffd",
+    "createdAt": "2023-10-13T10:12:11.262Z",
+    "updatedAt": "2023-10-13T10:12:11.262Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0006,
+    "Negative": 0.0003,
+    "Neutral": 0.9991,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "NEET 2023 me selection kyu nahi hua??",
+    "decription": "",
+    "videoId": "TKnjhSmr520"
+    },
+    "_id": "652917fb82d3b1c62ada9ff5",
+    "createdAt": "2023-10-13T10:12:11.256Z",
+    "updatedAt": "2023-10-13T10:12:11.256Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0194,
+    "Negative": 0.0335,
+    "Neutral": 0.947,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Aa Gaye ZOOLOGY Ke Stars 🤯 | NEET 2024 Dropper Batch | YAKEEN 2.O 🙏",
+    "decription": "Yakeen 2.0 : https://physicswallah.onelink.me/ZAZB/xlh43z92 Yakeen NEET 2.0 Batch Details : - Complete NEET Syllabus will be ...",
+    "videoId": "VTtp1hn46eE"
+    },
+    "_id": "652917fb82d3b1c62adaa017",
+    "createdAt": "2023-10-13T10:12:11.282Z",
+    "updatedAt": "2023-10-13T10:12:11.282Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.001,
+    "Negative": 0.0002,
+    "Neutral": 0.9988,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "NEET 2023 Question Paper Discussion || Physics Wallah || NEET 2023 Answer Key",
+    "decription": "Submit Your NEET Application - https://bit.ly/neet_YT Complete Answer Key PDF ...",
+    "videoId": "DPUlzKHZ20M"
+    },
+    "_id": "652917fb82d3b1c62ada9fd1",
+    "createdAt": "2023-10-13T10:12:11.205Z",
+    "updatedAt": "2023-10-13T10:12:11.205Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0226,
+    "Negative": 0.004,
+    "Neutral": 0.9733,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Complete BIOLOGY - Most Expected Questions ⚡Question Paper यही से आएगा 🤯🔥 NEET 2023",
+    "decription": "NEET MahaRevision : https://bit.ly/3N3LZ3y NEET Application: https://bit.ly/neet- NEET 2023 Solution and Answer Key PDF ...",
+    "videoId": "Aq5Jd8_opqM"
+    },
+    "_id": "652917fb82d3b1c62ada9ff7",
+    "createdAt": "2023-10-13T10:12:11.258Z",
+    "updatedAt": "2023-10-13T10:12:11.258Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0014,
+    "Negative": 0.0003,
+    "Neutral": 0.9983,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Complete Class 12th PHYSICS in 1 Shot | Concepts + Most Important Questions | NEET 2023 ⚡",
+    "decription": "NEET 2023 Solution and Answer Key PDF ...",
+    "videoId": "qDZik-DcQJA"
+    },
+    "_id": "652917fb82d3b1c62adaa013",
+    "createdAt": "2023-10-13T10:12:11.277Z",
+    "updatedAt": "2023-10-13T10:12:11.277Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0012,
+    "Negative": 0.0006,
+    "Neutral": 0.9982,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Most Powerful Lecture of Complete ORGANIC CHEMISTRY in 1 Shot (PART - 2) | Concepts + MIQs | NEET",
+    "decription": "NEET 2023 Solution and Answer Key PDF ...",
+    "videoId": "bmPj_wEEb48"
+    },
+    "_id": "652917fb82d3b1c62adaa001",
+    "createdAt": "2023-10-13T10:12:11.265Z",
+    "updatedAt": "2023-10-13T10:12:11.265Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0006,
+    "Negative": 0.0002,
+    "Neutral": 0.9992,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Complete PHYSICAL CHEMISTRY in 1 Shot (PART - 2) | Concepts + Most Important Questions | NEET 2023",
+    "decription": "Part - 1 - https://youtube.com/live/gQ0Ho4vu0HA NEET 2023 Solution and Answer Key PDF ...",
+    "videoId": "oRdnvdTZ2G0"
+    },
+    "_id": "652917fb82d3b1c62ada9fff",
+    "createdAt": "2023-10-13T10:12:11.264Z",
+    "updatedAt": "2023-10-13T10:12:11.264Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0008,
+    "Negative": 0.0003,
+    "Neutral": 0.999,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Complete PHYSICAL CHEMISTRY in 1 Shot (PART - 1) | Concepts + Most Important Questions | NEET 2023",
+    "decription": "Part - 2 - https://youtube.com/live/oRdnvdTZ2G0 NEET 2023 Solution and Answer Key PDF ...",
+    "videoId": "gQ0Ho4vu0HA"
+    },
+    "_id": "652917fb82d3b1c62ada9fe7",
+    "createdAt": "2023-10-13T10:12:11.216Z",
+    "updatedAt": "2023-10-13T10:12:11.216Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0005,
+    "Negative": 0.0002,
+    "Neutral": 0.9992,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Complete 11th PHYSICS in 1 Shot (PART - 2) | Concepts + Most Important Questions | NEET 2023",
+    "decription": "Part - 1 - https://youtube.com/live/pPHnQ-LSwoM NEET 2023 Solution and Answer Key PDF ...",
+    "videoId": "14Bxe2qz5W0"
+    },
+    "_id": "652917fb82d3b1c62ada9ff9",
+    "createdAt": "2023-10-13T10:12:11.259Z",
+    "updatedAt": "2023-10-13T10:12:11.259Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0006,
+    "Negative": 0.0002,
+    "Neutral": 0.9992,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Complete 11th PHYSICS in 1 Shot (PART - 1) | Concepts + Most Important Questions | NEET 2023",
+    "decription": "Part - 2 - https://youtube.com/live/14Bxe2qz5W0 NEET 2023 Solution and Answer Key PDF ...",
+    "videoId": "pPHnQ-LSwoM"
+    },
+    "_id": "652917fb82d3b1c62ada9fed",
+    "createdAt": "2023-10-13T10:12:11.220Z",
+    "updatedAt": "2023-10-13T10:12:11.220Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0012,
+    "Negative": 0.0006,
+    "Neutral": 0.9982,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Complete BOTANY in 1 Shot | Concepts + Most Important Questions | NEET 2023",
+    "decription": "NEET MahaRevision : https://bit.ly/3N3LZ3y NEET Application: https://bit.ly/neet- NEET 2023 Solution and Answer Key PDF ...",
+    "videoId": "cdFephxctSs"
+    },
+    "_id": "652917fb82d3b1c62ada9fcd",
+    "createdAt": "2023-10-13T10:12:11.201Z",
+    "updatedAt": "2023-10-13T10:12:11.201Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0012,
+    "Negative": 0.0006,
+    "Neutral": 0.9982,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Most Powerful lecture of Complete ORGANIC CHEMISTRY in 1 Shot | Concepts + MIQs | NEET",
+    "decription": "NEET MahaRevision : https://bit.ly/3N3LZ3y NEET Application: https://bit.ly/neet- NEET 2023 Solution and Answer Key PDF ...",
+    "videoId": "ShALRAmCSu0"
+    },
+    "_id": "652917fb82d3b1c62ada9fe5",
+    "createdAt": "2023-10-13T10:12:11.215Z",
+    "updatedAt": "2023-10-13T10:12:11.215Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0012,
+    "Negative": 0.0006,
+    "Neutral": 0.9982,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Complete INORGANIC CHEMISTRY in 1 Shot | Concepts + Most Important Questions | NEET 2023",
+    "decription": "NEET MahaRevision : https://bit.ly/3N3LZ3y NEET Application: https://bit.ly/neet- Batch Details : - We will cover Botany, Zoology, ...",
+    "videoId": "M1jG3hxJOUU"
+    },
+    "_id": "652917fb82d3b1c62adaa009",
+    "createdAt": "2023-10-13T10:12:11.273Z",
+    "updatedAt": "2023-10-13T10:12:11.273Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0013,
+    "Negative": 0.0003,
+    "Neutral": 0.9984,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "AIR 1 in NDA from PhysicsWallah💪 ANURAG SANGWAN from Shaurya || Ft. Alakh Sir",
+    "decription": "AIR 1 in NDA from PW ANURAG SANGWAN from Shaurya Batch !! Shaurya 2.0 ( NDA ) Enrollment Link: ...",
+    "videoId": "1vJMzr__98o"
+    },
+    "_id": "652917fb82d3b1c62ada9ff1",
+    "createdAt": "2023-10-13T10:12:11.222Z",
+    "updatedAt": "2023-10-13T10:12:11.222Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0039,
+    "Negative": 0.0001,
+    "Neutral": 0.996,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "JEE 2024 Dropper: India&#39;s Most POWERFUL Batch - PRAYAS!! Complete Course @Rs4600",
+    "decription": "Check the Prayas Batch https://smart.link/hxo3dlvuj6ryb The complete JEE Syllabus will be covered We will cover ...",
+    "videoId": "-KWRrfM0qdk"
+    },
+    "_id": "652917fb82d3b1c62adaa00f",
+    "createdAt": "2023-10-13T10:12:11.275Z",
+    "updatedAt": "2023-10-13T10:12:11.275Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.001,
+    "Negative": 0.0002,
+    "Neutral": 0.9988,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "If you can&#39;t Afford PW VIDYAPEETH, then Watch this !! ⚡PW Scholarship Test 🎉",
+    "decription": "For SAT Registration: https://smart.link/5qe2gd5lzoc6b ••To know more about Vidhyapeeth Centers ...",
+    "videoId": "v2YHP-3beJQ"
+    },
+    "_id": "652917fb82d3b1c62adaa011",
+    "createdAt": "2023-10-13T10:12:11.276Z",
+    "updatedAt": "2023-10-13T10:12:11.276Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0608,
+    "Negative": 0.0022,
+    "Neutral": 0.9365,
+    "Mixed": 0.0005
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "dreams come true ♥️",
+    "decription": "",
+    "videoId": "b_YH4OLC9OE"
+    },
+    "_id": "652917fb82d3b1c62adaa005",
+    "createdAt": "2023-10-13T10:12:11.270Z",
+    "updatedAt": "2023-10-13T10:12:11.270Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0042,
+    "Negative": 0.0002,
+    "Neutral": 0.9956,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "LIVE Surprise: VISHWAS DIWAS Extended Till 15th March !! 💥",
+    "decription": "VISHWAS DIWAS Extended Till 15th March 2023 !! Check Vidyapeeth Surprise ...",
+    "videoId": "DMzO1Fef4UU"
+    },
+    "_id": "652917fb82d3b1c62adaa019",
+    "createdAt": "2023-10-13T10:12:11.350Z",
+    "updatedAt": "2023-10-13T10:12:11.350Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.2199,
+    "Negative": 0.0996,
+    "Neutral": 0.678,
+    "Mixed": 0.0025
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Bad Boy of #physicswallah !! The KHALNAYAK 😈",
+    "decription": "",
+    "videoId": "LMSK6UzRfP8"
+    },
+    "_id": "652917fb82d3b1c62ada9ffb",
+    "createdAt": "2023-10-13T10:12:11.261Z",
+    "updatedAt": "2023-10-13T10:12:11.261Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.1308,
+    "Negative": 0.0006,
+    "Neutral": 0.8685,
+    "Mixed": 0.0001
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Happy VISHWAS DIWAS 2023 ❤️‍🔥 The Biggest EDUCATIONAL Festival of the World 🚀",
+    "decription": "Vishwas Diwas is finally here   Offers valid till 10th Mar It is the Day Itself!! Check Vidyapeeth Surprise ...",
+    "videoId": "0ArT-wrtYRY"
+    },
+    "_id": "652917fb82d3b1c62adaa015",
+    "createdAt": "2023-10-13T10:12:11.278Z",
+    "updatedAt": "2023-10-13T10:12:11.278Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0008,
+    "Negative": 0.0007,
+    "Neutral": 0.9983,
+    "Mixed": 0.0001
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "#TyoharTaiyariKa Official Song | Happy Vishwas Diwas ♥️ LIVE Today @8PM",
+    "decription": "Vishwas Diwas: https://www.youtube.com/live/0ArT-wrtYRY?feature=share.",
+    "videoId": "K6vM_j7V2L8"
+    },
+    "_id": "652917fb82d3b1c62adaa007",
+    "createdAt": "2023-10-13T10:12:11.271Z",
+    "updatedAt": "2023-10-13T10:12:11.271Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0008,
+    "Negative": 0.0007,
+    "Neutral": 0.9983,
+    "Mixed": 0.0001
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Thank you for your lovely wishes ❤️",
+    "decription": "",
+    "videoId": "tVOhdteOP-Y"
+    },
+    "_id": "652917fb82d3b1c62adaa00b",
+    "createdAt": "2023-10-13T10:12:11.274Z",
+    "updatedAt": "2023-10-13T10:12:11.274Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0017,
+    "Negative": 0.0009,
+    "Neutral": 0.9974,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "Pagal Insaan Hi Itihas Badalta Hai !! #PWOnlyIAS #UPSCWallah",
+    "decription": "https://youtu.be/dDsFVP9KBQU #PhysicsWallah #PWOnlyIAS #UPSCWallah.",
+    "videoId": "oWn4P85LAe0"
+    },
+    "_id": "652917fb82d3b1c62ada9fe3",
+    "createdAt": "2023-10-13T10:12:11.214Z",
+    "updatedAt": "2023-10-13T10:12:11.214Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0012,
+    "Negative": 0.0004,
+    "Neutral": 0.9984,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "क्या आपके शहर मे PW Vidyapeeth है? 🔥",
+    "decription": "Admission Open for JEE/NEET 2024-25: https://bit.ly/VP_PSregistrationform •• For Call 07314850130 ENROLLMENT LINKS: ...",
+    "videoId": "hdP4VMygYW0"
+    },
+    "_id": "652917fb82d3b1c62adaa01b",
+    "createdAt": "2023-10-13T10:12:11.352Z",
+    "updatedAt": "2023-10-13T10:12:11.352Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0008,
+    "Negative": 0.0007,
+    "Neutral": 0.9985,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "DEPRESSION - Every Student should watch this video !! #PwiansGiveUpNahiKarte",
+    "decription": "PW Prerna: https://youtube.com/@pwprerna #pwiansgiveupnahikarte #BharatKeBachheGiveUpNahiKarte #AlakhPandey #PW ...",
+    "videoId": "WB_VNoMBrhM"
+    },
+    "_id": "652917fb82d3b1c62ada9fef",
+    "createdAt": "2023-10-13T10:12:11.221Z",
+    "updatedAt": "2023-10-13T10:12:11.221Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.0036,
+    "Negative": 0.0003,
+    "Neutral": 0.9961,
+    "Mixed": 0
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "@PhysicsWallah first and LAST reply to @AmanDhattarwal &amp; Everyone !! 🙏",
+    "decription": "Suraj Sharma: The first Employee of Apni Kaksha - https://youtu.be/XEWP9Z3vRLk ••Read Comments ...",
+    "videoId": "1qKVlw3RywQ"
+    },
+    "_id": "652917fb82d3b1c62ada9ff3",
+    "createdAt": "2023-10-13T10:12:11.222Z",
+    "updatedAt": "2023-10-13T10:12:11.222Z"
+    }
+    ]
+    }
+    },
+    {
+    "statusCode": 201,
+    "data": {
+    "sentimentList": [
+    {
+    "typeId": "65140898cfeaf2d345ef32b7",
+    "sentimentScore": {
+    "Positive": 0.2006,
+    "Negative": 0.0321,
+    "Neutral": 0.7673,
+    "Mixed": 0.0001
+    },
+    "sentiment": "NEUTRAL",
+    "description": "youtube video",
+    "info": {
+    "title": "PhysicsWallah Diwali GIFTS Revealed 🤫",
+    "decription": "",
+    "videoId": "CLrLLy_7RzA"
+    },
+    "_id": "652917fb82d3b1c62ada9fe9",
+    "createdAt": "2023-10-13T10:12:11.217Z",
+    "updatedAt": "2023-10-13T10:12:11.217Z"
+    }
+    ]
+    }
+    }
+    ]
